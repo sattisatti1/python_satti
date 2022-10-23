@@ -1,0 +1,2 @@
+# python_satti
+learning_python_as_skill_for_my_PhD
